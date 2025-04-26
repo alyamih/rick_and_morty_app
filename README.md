@@ -1,16 +1,9 @@
-# rick_and_morty_app
+# Тестовое задание: "Список персонажей Рика и Морти"
 
-A new Flutter project.
+## Описание
+Необходимо разработать мобильное приложение на Flutter, которое загружает список персонажей мультсериала "Рик и Морти" с публичного API. Приложение должно позволять добавлять персонажей в избранное и обеспечивать оффлайн-доступ к данным.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Дата начала выполнения:
+24.04.2025
+### Дата окончания выполнения:
+26.04.2025
